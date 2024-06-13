@@ -4,5 +4,5 @@ media/
 migrations/
 __pycache__/
 db.sqlite3
-.env
+.brisk-venv
 .DS_Store
